@@ -1,3 +1,3 @@
 # rust-course
 
-Code from my coursera "Coding for Everyone: C and C++ Specialization", taught by Dr. Ira Pohl from the Unviersity of California, Santa Cruz!
+Code from my coursera "Rust Programming Specialization", taught by Noah Gift and Alfredo Deza from Duke University!
